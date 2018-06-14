@@ -1,4 +1,6 @@
 language: go
+- go:
+    - "1.10"
 
 env:
     - GIMME_OS=linux GIMME_ARCH=amd64
@@ -10,3 +12,4 @@ install:
 
 script:
     - go build -v ./...
+    - go test -v ./...
