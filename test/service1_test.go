@@ -4,7 +4,7 @@ package service1_test
 import (
 	"testing"
 
-	"github.com/swisscom-blockchain/test/pkg/service1"
+	"github.com/alvaradojl/test/pkg/service1"
 )
 
 // Add_1And2_Return_3 tests that 1+2 equals 3

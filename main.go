@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/swisscom-blockchain/test/pkg/service1"
+	"github.com/alvaradojl/test/pkg/service1"
 )
 
 func main() {
